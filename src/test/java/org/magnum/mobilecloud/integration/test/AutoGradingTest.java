@@ -1,4 +1,5 @@
 package org.magnum.mobilecloud.integration.test;
+import org.magnum.mobilecloud.video.TestData;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
